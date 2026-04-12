@@ -1,0 +1,146 @@
+{
+  "hero": {
+    "headline": "Transforma Tus Ideas En Soluciones Web Poderosas",
+    "subheadline": "Desarrollador web full-stack especializado en aplicaciones modernas y escalables para startups y negocios",
+    "cta_primary": "Solicitar Cotización",
+    "cta_secondary": "Ver Mi Trabajo"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "description": "Hola, soy Josue Covarrubias, un desarrollador web con sede en Bolivia apasionado por crear soluciones web eficientes y modernas. Como estudiante de último semestre de Ingeniería de Sistemas con 1 año de experiencia profesional en desarrollo remoto para una empresa argentina, aporto tanto conocimiento académico como experiencia del mundo real a cada proyecto.",
+    "description_2": "Me especializo en el ecosistema React/Next.js y construyo desde landing pages elegantes hasta dashboards complejos y APIs. Ya sea que seas una startup buscando lanzar tu MVP o un negocio establecido necesitando modernizar tu presencia digital, entrego código limpio y mantenible que escala con tus necesidades."
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Lo Que Puedo Hacer Por Ti",
+    "landing_pages": {
+      "title": "Landing Pages Modernas",
+      "description": "Sitios web responsivos y rápidos que convierten visitantes en clientes"
+    },
+    "dashboards": {
+      "title": "Paneles Administrativos",
+      "description": "Paneles de gestión completos con autenticación y funcionalidad CRUD"
+    },
+    "web_apps": {
+      "title": "Aplicaciones Web",
+      "description": "Aplicaciones React/Next.js personalizadas para tu negocio"
+    },
+    "apis": {
+      "title": "APIs REST",
+      "description": "Soluciones backend robustas con NestJS y PostgreSQL"
+    },
+    "database": {
+      "title": "Integración de Bases de Datos",
+      "description": "Gestión y optimización eficiente de datos"
+    },
+    "support": {
+      "title": "Soporte Técnico y Mantenimiento",
+      "description": "Soporte continuo para mantener tu aplicación funcionando sin problemas"
+    }
+  },
+  "why_me": {
+    "title": "Por Qué Trabajar Conmigo",
+    "cost_effective": "Soluciones Rentables - Tarifas competitivas sin comprometer la calidad",
+    "modern_stack": "Stack Tecnológico Moderno - React, Next.js, NestJS, PostgreSQL",
+    "bilingual": "Comunicación Bilingüe - Fluido en inglés y español",
+    "reliable": "Confiable y Profesional - Comunicación clara, entrega a tiempo",
+    "flexible": "Zona Horaria Flexible - Disponible para colaboración internacional"
+  },
+  "tech_stack": {
+    "title": "Stack Tecnológico",
+    "subtitle": "Tecnologías Con Las Que Trabajo"
+  },
+  "process": {
+    "title": "Cómo Funciona",
+    "subtitle": "Mi Proceso de Desarrollo",
+    "step_1": {
+      "title": "Consulta Inicial",
+      "description": "Discutimos los requisitos y objetivos de tu proyecto"
+    },
+    "step_2": {
+      "title": "Propuesta y Cronograma",
+      "description": "Recibes una cotización detallada y plan del proyecto"
+    },
+    "step_3": {
+      "title": "Desarrollo",
+      "description": "Actualizaciones regulares mientras construyo tu solución"
+    },
+    "step_4": {
+      "title": "Pruebas y Lanzamiento",
+      "description": "Pruebas exhaustivas antes del despliegue"
+    },
+    "step_5": {
+      "title": "Soporte",
+      "description": "Mantenimiento y soporte continuo disponible"
+    }
+  },
+  "portfolio": {
+    "title": "Proyectos Destacados",
+    "subtitle": "Trabajo Reciente",
+    "coming_soon": "Proyectos próximamente - Vuelve pronto o contáctame para ver muestras de trabajo reciente",
+    "projects": {
+      "proj1": {
+        "title": "E-commerce para Farmacia",
+        "description": "E-commerce de farmacia con chatbot de sugerencias, panel de administración de inventarios y gestión de precios."
+      },
+      "proj2": {
+        "title": "Gestión de Condominios",
+        "description": "Sistema para gestionar condominios con administración de propietarios, gestión de áreas comunes, servicios y unidades habitacionales."
+      },
+      "proj3": {
+        "title": "Calculadora de Interés Vehicular",
+        "description": "Calculadora de interés para un negocio de compra y venta de vehículos."
+      }
+    }
+  },
+  "blog": {
+    "title": "Últimos Artículos",
+    "subtitle": "Reflexiones Sobre Desarrollo Web",
+    "coming_soon": "Artículos próximamente"
+  },
+  "cta": {
+    "title": "¿Listo Para Construir Algo Increíble?",
+    "subtitle": "Hablemos sobre cómo puedo ayudar a dar vida a tu proyecto",
+    "button": "Contactar"
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "Comencemos tu proyecto",
+    "name": "Nombre",
+    "email": "Correo",
+    "phone": "Número de Teléfono",
+    "optional": "Opcional",
+    "message": "Mensaje",
+    "service": "Servicio de interés",
+    "select_service": "Selecciona un servicio",
+    "submit": "Enviar Mensaje",
+    "success": "¡Mensaje enviado exitosamente!",
+    "error": "Error al enviar el mensaje. Por favor intenta de nuevo.",
+    "lets_connect": "Conectemos",
+    "lets_connect_description": "¿Tienes un proyecto en mente? Me encantaría saber más. Envíame un mensaje y te responderé lo antes posible.",
+    "services": {
+      "landing_page": "Landing Page",
+      "dashboard": "Sistema Administrativo",
+      "web_app": "Página Web",
+      "api": "API REST",
+      "database": "Integración de Base de Datos",
+      "support": "Soporte Técnico"
+    }
+  },
+  "footer": {
+    "quick_links": "Enlaces Rápidos",
+    "about": "Sobre Mí",
+    "services": "Servicios",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "social": "Sígueme",
+    "copyright": "© 2026 Josue Covarrubias. Todos los derechos reservados."
+  },
+  "nav": {
+    "about": "Sobre Mí",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "blog": "Blog",
+    "contact": "Contacto"
+  }
+}
