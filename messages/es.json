@@ -8,7 +8,8 @@
   "about": {
     "title": "Sobre Mí",
     "description": "Hola, soy Josue Covarrubias, un desarrollador web con sede en Bolivia apasionado por crear soluciones web eficientes y modernas. Como estudiante de último semestre de Ingeniería de Sistemas con 1 año de experiencia profesional en desarrollo remoto para una empresa argentina, aporto tanto conocimiento académico como experiencia del mundo real a cada proyecto.",
-    "description_2": "Me especializo en el ecosistema React/Next.js y construyo desde landing pages elegantes hasta dashboards complejos y APIs. Ya sea que seas una startup buscando lanzar tu MVP o un negocio establecido necesitando modernizar tu presencia digital, entrego código limpio y mantenible que escala con tus necesidades."
+    "description_2": "Me especializo en el ecosistema React/Next.js y construyo desde landing pages elegantes hasta dashboards complejos y APIs. Ya sea que seas una startup buscando lanzar tu MVP o un negocio establecido necesitando modernizar tu presencia digital, entrego código limpio y mantenible que escala con tus necesidades.",
+    "cta_button": "Trabajemos Juntos"
   },
   "services": {
     "title": "Servicios",
@@ -36,7 +37,9 @@
     "support": {
       "title": "Soporte Técnico y Mantenimiento",
       "description": "Soporte continuo para mantener tu aplicación funcionando sin problemas"
-    }
+    },
+    "cta_text": "¿Necesitas una solución personalizada? Hablemos de tu proyecto",
+    "cta_button": "Comenzar"
   },
   "why_me": {
     "title": "Por Qué Trabajar Conmigo",
@@ -44,11 +47,14 @@
     "modern_stack": "Stack Tecnológico Moderno - React, Next.js, NestJS, PostgreSQL",
     "bilingual": "Comunicación Bilingüe - Fluido en inglés y español",
     "reliable": "Confiable y Profesional - Comunicación clara, entrega a tiempo",
-    "flexible": "Zona Horaria Flexible - Disponible para colaboración internacional"
+    "flexible": "Zona Horaria Flexible - Disponible para colaboración internacional",
+    "cta_text": "¿Listo para empezar tu proyecto con un socio confiable?",
+    "cta_button": "Hablemos"
   },
   "tech_stack": {
     "title": "Stack Tecnológico",
-    "subtitle": "Tecnologías Con Las Que Trabajo"
+    "subtitle": "Tecnologías Con Las Que Trabajo",
+    "footer_text": "Siempre aprendiendo y explorando nuevas tecnologías para ofrecer las mejores soluciones para tus proyectos"
   },
   "process": {
     "title": "Cómo Funciona",
@@ -72,7 +78,9 @@
     "step_5": {
       "title": "Soporte",
       "description": "Mantenimiento y soporte continuo disponible"
-    }
+    },
+    "cta_text": "Simple, transparente y efectivo",
+    "cta_button": "Iniciar Tu Proyecto"
   },
   "portfolio": {
     "title": "Proyectos Destacados",
@@ -125,7 +133,8 @@
       "api": "API REST",
       "database": "Integración de Base de Datos",
       "support": "Soporte Técnico"
-    }
+    },
+    "availability": "Disponible Lunes - Viernes, 9:00 AM - 6:00 PM (BOT)"
   },
   "footer": {
     "quick_links": "Enlaces Rápidos",

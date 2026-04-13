@@ -114,7 +114,7 @@ export default function TechStackSection() {
           className="text-center mt-12"
         >
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Always learning and exploring new technologies to deliver the best solutions for your projects
+            {t('footer_text')}
           </p>
         </motion.div>
       </div>

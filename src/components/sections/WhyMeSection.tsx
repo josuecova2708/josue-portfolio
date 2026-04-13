@@ -108,13 +108,13 @@ export default function WhyMeSection() {
           className="text-center mt-12"
         >
           <p className="text-white/90 text-lg mb-6">
-            Ready to start your project with a reliable partner?
+            {t('cta_text')}
           </p>
           <a
             href="#contact"
             className="inline-flex items-center gap-2 px-8 py-4 bg-white text-[#14b8a6] rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 shadow-xl hover:shadow-2xl transform hover:-translate-y-0.5"
           >
-            Let's Talk
+            {t('cta_button')}
           </a>
         </motion.div>
       </div>

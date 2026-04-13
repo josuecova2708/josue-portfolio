@@ -122,7 +122,7 @@ export default function AboutSection() {
                 href="#contact"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-[#14b8a6] text-white rounded-lg font-semibold hover:bg-[#0d9488] transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
               >
-                Let's Work Together
+                {t('cta_button')}
               </a>
             </motion.div>
           </motion.div>

@@ -112,13 +112,13 @@ export default function ServicesSection() {
           className="text-center mt-16"
         >
           <p className="text-gray-600 mb-6 text-lg">
-            Need a custom solution? Let's discuss your project
+            {t('cta_text')}
           </p>
           <a
             href="#contact"
             className="inline-flex items-center gap-2 px-8 py-4 bg-[#14b8a6] text-white rounded-lg font-semibold hover:bg-[#0d9488] transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
           >
-            Get Started
+            {t('cta_button')}
           </a>
         </motion.div>
       </div>

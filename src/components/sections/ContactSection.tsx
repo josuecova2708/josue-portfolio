@@ -147,7 +147,7 @@ export default function ContactSection() {
               {/* Decorative element */}
               <div className="mt-12 pt-8 border-t border-white/20">
                 <p className="text-white/80 text-sm">
-                  Available Monday - Friday, 9:00 AM - 6:00 PM (BOT)
+                  {t('availability')}
                 </p>
               </div>
             </div>

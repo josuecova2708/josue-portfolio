@@ -8,7 +8,8 @@
   "about": {
     "title": "About Me",
     "description": "Hi, I'm Josue Covarrubias, a web developer based in Bolivia with a passion for creating efficient, modern web solutions. As a final-semester Systems Engineering student with 1 year of professional remote development experience for an Argentine company, I bring both academic knowledge and real-world expertise to every project.",
-    "description_2": "I specialize in the React/Next.js ecosystem and build everything from sleek landing pages to complex dashboards and APIs. Whether you're a startup looking to launch your MVP or an established business needing to modernize your digital presence, I deliver clean, maintainable code that scales with your needs."
+    "description_2": "I specialize in the React/Next.js ecosystem and build everything from sleek landing pages to complex dashboards and APIs. Whether you're a startup looking to launch your MVP or an established business needing to modernize your digital presence, I deliver clean, maintainable code that scales with your needs.",
+    "cta_button": "Let's Work Together"
   },
   "services": {
     "title": "Services",
@@ -36,7 +37,9 @@
     "support": {
       "title": "Technical Support & Maintenance",
       "description": "Ongoing support to keep your application running smoothly"
-    }
+    },
+    "cta_text": "Need a custom solution? Let's discuss your project",
+    "cta_button": "Get Started"
   },
   "why_me": {
     "title": "Why Work With Me",
@@ -44,11 +47,14 @@
     "modern_stack": "Modern Tech Stack - React, Next.js, NestJS, PostgreSQL",
     "bilingual": "Bilingual Communication - Fluent in English and Spanish",
     "reliable": "Reliable & Professional - Clear communication, on-time delivery",
-    "flexible": "Flexible Timezone - Available for international collaboration"
+    "flexible": "Flexible Timezone - Available for international collaboration",
+    "cta_text": "Ready to start your project with a reliable partner?",
+    "cta_button": "Let's Talk"
   },
   "tech_stack": {
     "title": "Tech Stack",
-    "subtitle": "Technologies I Work With"
+    "subtitle": "Technologies I Work With",
+    "footer_text": "Always learning and exploring new technologies to deliver the best solutions for your projects"
   },
   "process": {
     "title": "How It Works",
@@ -72,7 +78,9 @@
     "step_5": {
       "title": "Support",
       "description": "Ongoing maintenance and support available"
-    }
+    },
+    "cta_text": "Simple, transparent, and effective",
+    "cta_button": "Start Your Project"
   },
   "portfolio": {
     "title": "Featured Projects",
@@ -125,7 +133,8 @@
       "api": "REST API",
       "database": "Database Integration",
       "support": "Technical Support"
-    }
+    },
+    "availability": "Available Monday - Friday, 9:00 AM - 6:00 PM (BOT)"
   },
   "footer": {
     "quick_links": "Quick Links",
